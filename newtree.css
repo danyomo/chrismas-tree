@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
+.headline {
+  margin-bottom: .5em;
+  color: red;
+  font-family: 'Berkshire Swash', cursive;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: 0 .05em .1em #911;
+  animation-name: hover;
+  animation-iteration-count: infinite;
+  animation-duration: 3.5s;
+  font-size: xx-large;
+}
+
